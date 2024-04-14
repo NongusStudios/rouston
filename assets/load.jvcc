@@ -1,0 +1,8 @@
+wizard.png [
+    type : IMAGE,
+    filtering : NEAREST,
+]
+sprite.jpg [
+    type : IMAGE,
+    filtering : NEAREST,
+]

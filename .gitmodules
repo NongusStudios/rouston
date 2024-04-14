@@ -1,0 +1,6 @@
+[submodule "src/ext/glfw"]
+	path = src/ext/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "src/ext/cglm"]
+	path = src/ext/cglm
+	url = https://github.com/recp/cglm.git
